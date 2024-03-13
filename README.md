@@ -43,3 +43,4 @@ The Pharma Management System is developed as a comprehensive solution for pharma
 
 
 
+# apka_pharma
